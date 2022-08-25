@@ -12,21 +12,10 @@ function App(props) {
 
   return (
     <>
-      <NavBar backgroundColor='black'/>
+      <NavBar/>
       <h2>Las ofertas de la semana</h2>
  
     </>
-    /** 
-   <div className='containeer'>
-    <NavBar>        
-    </NavBar>
-    <h1>¡Hello React!</h1>
-    <h2>Otra prueba</h2>
-    <Saludo name="Gustavo" lastname="Romero"></Saludo>
-    <Saludo name="Carla" lastname="Romero"></Saludo>
-    <Saludo name="Franco" lastname="Romero"></Saludo>
-   </div>*/
-   
 );
 }
 
